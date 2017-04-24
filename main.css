@@ -44,5 +44,7 @@ nav a{
 
 
 /* FOOTER CSS */
-
+footer{
+	float: left;
+	background-color: darkgray;
 /* MEDIA QUERIES */
